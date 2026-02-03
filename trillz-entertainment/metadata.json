@@ -1,0 +1,7 @@
+{
+  "name": "Trillz Entertainment",
+  "description": "A high-end, cinematic luxury brand platform for Trillz, featuring a curated music radio, artist galleries, a professional model agency grid, and fashion show showcases. Designed with a sophisticated Deep Charcoal and Champagne Gold aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
